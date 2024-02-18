@@ -38,6 +38,11 @@ Bu politika periyodik olarak güncellenebilir. Kullanıcılar önemli değişikl
 
 ## 7. İletişim:
 
-Gizlilik ve çerez politikamızla ilgili sorularınız veya geri bildirimleriniz varsa, lütfen [İletişim Bilgileri](#contact-information) bölümümüz aracılığıyla bizimle iletişime geçin.
+Gizlilik ve çerez politikamızla ilgili sorularınız veya geri bildirimleriniz varsa, lütfen aşağıdaki iletişim bilgileri aracılığıyla bizimle iletişime geçin:
+
+- **E-posta:** (mailto:yusuferoglu1957@gmail.com)
+- **Telefon:** +90
+- **Posta Adresi:** Globipedi Vakfı, xxx Cad. No: xxx, xxx Istanbul, Turkiye
+
 
 Bu politika, Globipedi Vakfı tarafından sağlanan tüm projeler için geçerlidir.
