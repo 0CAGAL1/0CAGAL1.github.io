@@ -1,6 +1,6 @@
 # Güvenlik Politikası
 
-**Son Güncelleme:** 2 Şubat 2024
+**Son Güncelleme:** 18 Şubat 2024
 
 Hoş geldiniz! Bu politika, Globipedi Vakfı tarafından sağlanan tüm projeleri kapsar ve kullanıcı gizliliğini koruma konusundaki taahhüdümüzü yansıtır.
 
