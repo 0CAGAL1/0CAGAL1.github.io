@@ -1,48 +1,47 @@
-# Güvenlik Politikası
+# Security Policy
 
-**Son Güncelleme:** 18 Şubat 2024
+**Last Updated:** February 18, 2024
 
-Hoş geldiniz! Bu politika, Globipedi Vakfı tarafından sağlanan tüm projeleri kapsar ve kullanıcı gizliliğini koruma konusundaki taahhüdümüzü yansıtır.
+Welcome! This policy covers all projects provided by the Globipedia Foundation and reflects our commitment to protecting user privacy.
 
-## 1. Gizlilik ve Toplanan Bilgiler:
+## 1. Privacy and Collected Information:
 
-Globipedi Vakfı projeleri, yalnızca kullanıcı deneyimini iyileştirmek ve projelerimizi geliştirmek amacıyla belirli bilgiler toplar. Bu bilgiler şunları içerebilir:
+Globipedia Foundation projects collect specific information solely to enhance user experience and improve our projects. This information may include:
 
-- Kullanıcı tarafından sağlanan tercihler ve ayarlar.
-- Tarayıcı ve cihaz bilgileri.
-- Kullanım istatistikleri ve etkinlikler.
+- User-provided preferences and settings.
+- Browser and device information.
+- Usage statistics and activities.
 
-Bu bilgiler, projelerimizin temel işlevselliğini sağlamak, kullanıcı deneyimlerini özelleştirmek ve güvenliği artırmak için kullanılır.
+This information is used to ensure the basic functionality of our projects, customize user experiences, and enhance security.
 
-## 2. Çerez Kullanımı:
+## 2. Cookie Usage:
 
-Globipedi Vakfı projeleri, kullanıcı deneyimini iyileştirmek ve özelleştirmek için çerezler kullanır. Çerez kullanımı hakkında daha fazla bilgi için lütfen detaylı [Çerez Politikası](#cookie-policy) bölümüne başvurun.
+Globipedia Foundation projects use cookies to enhance and customize user experiences. For more information about cookie usage, please refer to the detailed [Cookie Policy](#cookie-policy) section.
 
-## 3. Kullanılan Çerez Türleri:
+## 3. Types of Cookies Used:
 
-- **Temel Çerezler:** Temel işlevsellik için gerekli olan ve kullanıcı tercihlerini hatırlayan çerezler.
-- **Analiz ve Performans Çerezleri:** Ziyaretçi trafiğini izlemek, sayfa popülerliğini anlamak ve proje performansını değerlendirmek için kullanılan çerezler.
-- **Reklam Çerezleri:** Hedeflenmiş reklamları sunmak ve reklam kampanyalarımızın etkinliğini ölçmek için kullanılan çerezler.
+- **Essential Cookies:** Cookies necessary for basic functionality and remembering user preferences.
+- **Analytics and Performance Cookies:** Cookies used to track visitor traffic, understand page popularity, and evaluate project performance.
+- **Advertising Cookies:** Cookies used to deliver targeted advertisements and measure the effectiveness of our advertising campaigns.
 
-## 4. Çerezleri Kontrol Etme:
+## 4. Controlling Cookies:
 
-Çerezleri tarayıcı ayarlarınız aracılığıyla kontrol edebilirsiniz. Çerezleri devre dışı bırakma veya belirli web siteleri için izin verme seçeneğiniz bulunmaktadır.
+You can control cookies through your browser settings. Options include disabling cookies or allowing them for specific websites.
 
-## 5. Güvenlik ve Gizlilik:
+## 5. Security and Privacy:
 
-Globipedi Vakfı toplanan bilgileri güvenli bir şekilde saklar ve asla üçüncü taraflarla paylaşmaz. Kullanıcı gizliliği korumasına öncelik veriyoruz.
+Globipedia Foundation securely stores collected information and never shares it with third parties. We prioritize user privacy protection.
 
-## 6. Politika Güncellemeleri:
+## 6. Policy Updates:
 
-Bu politika periyodik olarak güncellenebilir. Kullanıcılar önemli değişikliklerden haberdar edilecektir.
+This policy may be updated periodically. Users will be notified of significant changes.
 
-## 7. İletişim:
+## 7. Contact:
 
-Gizlilik ve çerez politikamızla ilgili sorularınız veya geri bildirimleriniz varsa, lütfen aşağıdaki iletişim bilgileri aracılığıyla bizimle iletişime geçin:
+If you have any questions or feedback regarding our privacy and cookie policy, please contact us using the following contact information:
 
-- **E-posta:** <a href="mailto:yusuferoglu1957@gmail.com">yusuferoglu1957@gmail.com</a>
-- **Telefon:** +90
-- **Posta Adresi:** Globipedi Vakfı, xxx Cad. No: xxx, xxx Istanbul, Turkiye
+- **Email:** [yusuferoglu1957@gmail.com](mailto:yusuferoglu1957@gmail.com)
+- **Phone:** +90
+- **Mailing Address:** Globipedia Foundation, xxx St. No: xxx, xxx Istanbul, Turkey
 
-
-Bu politika, Globipedi Vakfı tarafından sağlanan tüm projeler için geçerlidir.
+This policy applies to all projects provided by the Globipedia Foundation.
