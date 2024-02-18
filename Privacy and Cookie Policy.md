@@ -40,7 +40,7 @@ Bu politika periyodik olarak güncellenebilir. Kullanıcılar önemli değişikl
 
 Gizlilik ve çerez politikamızla ilgili sorularınız veya geri bildirimleriniz varsa, lütfen aşağıdaki iletişim bilgileri aracılığıyla bizimle iletişime geçin:
 
-- **E-posta:** (mailto:yusuferoglu1957@gmail.com)
+- **E-posta:** <a href="mailto:yusuferoglu1957@gmail.com">yusuferoglu1957@gmail.com</a>
 - **Telefon:** +90
 - **Posta Adresi:** Globipedi Vakfı, xxx Cad. No: xxx, xxx Istanbul, Turkiye
 
